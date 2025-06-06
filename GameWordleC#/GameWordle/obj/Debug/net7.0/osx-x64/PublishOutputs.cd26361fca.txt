@@ -1,0 +1,1 @@
+/Users/shm/Desktop/GitRepo/GameWordle/GameWordleC#/GameWordle/obj/Debug/net7.0/macbuild/publish/osx-x64/GameWordle

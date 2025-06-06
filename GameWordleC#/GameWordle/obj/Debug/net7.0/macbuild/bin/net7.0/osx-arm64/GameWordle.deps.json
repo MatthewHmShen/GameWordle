@@ -1,0 +1,65 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0/osx-arm64",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {},
+    ".NETCoreApp,Version=v7.0/osx-arm64": {
+      "GameWordle/1.0.0": {
+        "dependencies": {
+          "Eto.Forms": "2.9.0",
+          "Eto.Platform.Mac64": "2.9.0"
+        },
+        "runtime": {
+          "GameWordle.dll": {}
+        }
+      },
+      "Eto.Forms/2.9.0": {
+        "runtime": {
+          "lib/net6.0/Eto.dll": {
+            "assemblyVersion": "2.9.0.0",
+            "fileVersion": "2.9.9128.32678"
+          }
+        }
+      },
+      "Eto.Platform.Mac64/2.9.0": {
+        "dependencies": {
+          "Eto.Forms": "2.9.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Eto.Mac64.dll": {
+            "assemblyVersion": "2.8.0.0",
+            "fileVersion": "2.8.9128.32679"
+          },
+          "lib/netstandard2.0/MonoMac.dll": {
+            "assemblyVersion": "0.0.1.0",
+            "fileVersion": "0.0.1.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GameWordle/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Eto.Forms/2.9.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kNluDQuIfgn6B19scKcXT4SDIwwqtQlwGYlxMavFhPilkye1vMu3XtFYdPFIMoqEgZSAzdJkA9rceSd/xmFlyg==",
+      "path": "eto.forms/2.9.0",
+      "hashPath": "eto.forms.2.9.0.nupkg.sha512"
+    },
+    "Eto.Platform.Mac64/2.9.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-4fNbRvSkuC0P9N+7IY/rtqHWo5dLnIs9NhKDZeDh2j1r+cpiFt6/ZbiK5nzKDYuo4zGyrDDe7r/I5pEQDizS4g==",
+      "path": "eto.platform.mac64/2.9.0",
+      "hashPath": "eto.platform.mac64.2.9.0.nupkg.sha512"
+    }
+  }
+}
